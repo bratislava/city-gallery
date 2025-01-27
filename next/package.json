@@ -27,7 +27,7 @@
     "html-react-parser": "^3.0.16",
     "i18next": "22.5.0",
     "lodash": "^4.17.21",
-    "mapbox-gl": "^2.14.1",
+    "mapbox-gl": "^2.15.0",
     "meilisearch": "0.32.4",
     "next": "13.2.3",
     "next-i18next": "13.2.2",
