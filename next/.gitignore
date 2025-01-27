@@ -37,3 +37,6 @@ yarn-error.log*
 
 # Sentry
 .sentryclirc
+
+# bratiska-cli manifest files
+manifest-*.y?ml

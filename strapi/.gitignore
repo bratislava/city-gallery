@@ -112,3 +112,8 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+############################
+# bratiska-cli files
+############################
+manifest-*.y?ml
