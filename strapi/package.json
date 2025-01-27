@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@strapi/plugin-graphql": "4.10.5",
-    "@strapi/plugin-i18n": "4.10.5",
+    "@strapi/plugin-i18n": "4.12.5",
     "@strapi/plugin-upload": "4.10.5",
     "@strapi/plugin-users-permissions": "4.10.5",
     "@strapi/strapi": "4.10.5",
